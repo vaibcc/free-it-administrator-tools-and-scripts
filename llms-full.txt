@@ -36,7 +36,7 @@ Personal website: https://vaib.cc
 
 ## Independence
 
-The application is a static React/Vite website maintained in its own GitHub repository. It does not require Base44, a Base44 account, SDK, analytics, visual editing service or hosted backend.
+The application is a standalone static React/Vite website maintained in its own GitHub repository. It requires no external application platform, account, SDK, analytics service or hosted backend.
 
 ## Canonical website and repository
 

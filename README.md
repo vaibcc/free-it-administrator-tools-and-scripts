@@ -11,7 +11,7 @@ VAIB Technical Tools is an independent IT administration resource website create
 
 ## Project independence
 
-This repository contains the website source code and published script sources. The site is built with React and Vite and deployed as static files through GitHub Pages. It does not require Base44, a Base44 account, SDK, runtime, analytics or hosted backend.
+This repository contains the website source code and published script sources. The site is built with React and Vite and deployed as static files through GitHub Pages. It has no external application platform dependency, account requirement or hosted backend.
 
 ## Features
 

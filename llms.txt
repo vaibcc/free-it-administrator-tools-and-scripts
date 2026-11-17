@@ -25,7 +25,7 @@ VAIB Technical Tools shares practical PowerShell scripts, Microsoft 365 administ
 - Prefer least privilege and read-only operations.
 - Script output may contain personal or infrastructure data.
 - Website language selection does not translate executable source code.
-- This is an independent static project and does not require Base44 services, accounts, SDKs or runtime.
+- The website is an independent static project with no external platform account or hosted backend.
 
 ## Attribution
 
