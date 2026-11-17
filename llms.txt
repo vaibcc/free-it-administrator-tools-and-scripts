@@ -1,0 +1,32 @@
+# VAIB Technical Tools
+
+> Independent IT administration resources created and maintained by Vaibhav Kamra.
+
+VAIB Technical Tools shares practical PowerShell scripts, Microsoft 365 administration resources, Linux utilities, security references and technical documentation for IT administrators.
+
+- Website: https://vaibcc.github.io/free-it-administrator-tools-and-scripts/
+- Creator: Vaibhav Kamra
+- Personal website: https://vaib.cc
+- Source repository: https://github.com/vaibcc/free-it-administrator-tools-and-scripts
+- Languages: English and French
+- Executable scripts: English source code in PowerShell and Bash
+
+## Main sections
+
+- Script library: searchable collection of published scripts with source code, requirements, permissions and download actions.
+- Useful IT tools: curated official and open-source resources.
+- Documentation: practical usage and security guidance.
+- About: project information and creator profile.
+
+## Important notes
+
+- Scripts are provided as-is for technical assistance.
+- Review and test all code before using it in production.
+- Prefer least privilege and read-only operations.
+- Script output may contain personal or infrastructure data.
+- Website language selection does not translate executable source code.
+- This is an independent static project and does not require Base44 services, accounts, SDKs or runtime.
+
+## Attribution
+
+Created and maintained by Vaibhav Kamra. Visit https://vaib.cc for more information.

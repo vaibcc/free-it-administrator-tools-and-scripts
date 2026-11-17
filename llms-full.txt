@@ -1,0 +1,45 @@
+# VAIB Technical Tools — Full project information
+
+## Identity and purpose
+
+VAIB Technical Tools is an independent technical resource website created and maintained by Vaibhav Kamra. It makes practical IT administration scripts, technical references and useful tools accessible to IT technicians, system administrators, Microsoft 365 administrators and security professionals.
+
+The project focuses on Microsoft technologies, identity and access management, cybersecurity, endpoint management, Linux infrastructure, networking, Docker and automation.
+
+## Website capabilities
+
+- Searchable PowerShell and Bash script library.
+- English and French interface text.
+- Original English source code with copy and download actions.
+- Platform, runtime, module and permission information.
+- Links to official documentation.
+- Curated external IT tools.
+- Security and operational guidance.
+
+Changing the interface language never changes executable source code. Script names, comments, commands, parameters and output remain in English.
+
+## Published script topics
+
+The published collection includes Active Directory group and account reporting; Microsoft Entra guest account and MFA registration review; Microsoft 365 licence reporting; Exchange Online mailbox forwarding review; Microsoft Intune managed-device inventory; Microsoft Defender device inventory; SharePoint storage reporting; Windows DNS and TCP connectivity diagnostics; local administrator group review; Ubuntu service and system reporting; and Docker container status reporting.
+
+The live website is the authoritative source for current script availability and details. Do not assume that every planned script is already published.
+
+## Security guidance
+
+Review scripts before execution and test in a non-production environment. Use least-privilege permissions, avoid embedding credentials, validate target environments, and protect exported reports. Confirm Microsoft Graph permissions and tenant-specific requirements with the administrator.
+
+## Creator
+
+Vaibhav Kamra is an IT professional focused on enterprise IT administration, Microsoft technologies, cybersecurity, identity and access management and cloud governance. Technical interests include Microsoft 365, Entra ID, Intune, Exchange Online, SharePoint, Defender, Purview, Windows, Linux, Docker, automation and local AI.
+
+Personal website: https://vaib.cc
+
+## Independence
+
+The application is a static React/Vite website maintained in its own GitHub repository. It does not require Base44, a Base44 account, SDK, analytics, visual editing service or hosted backend.
+
+## Canonical website and repository
+
+- Website: https://vaibcc.github.io/free-it-administrator-tools-and-scripts/
+- Repository: https://github.com/vaibcc/free-it-administrator-tools-and-scripts
+- Creator website: https://vaib.cc
